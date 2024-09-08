@@ -1,0 +1,205 @@
+<body>
+    <section class="all-page dark">
+
+    
+<section class="navbar">
+            <nav class="navbar-scroll nav-light">
+                <div class="nav-content">
+                    <div class="logo">
+                        <a href="index.php"> <img src="img/logo.jpg" class="img-logo"> </a>
+                    </div>
+
+                    <div class="nav-links">
+                        <ul class="main-links-list">
+                            <li><a href="index.php" class="nav-link active"> Home </a></li>
+                            <li>
+                                <a href="gallery.php" class="nav-link nav-hover">
+                                    Sketches
+                                </a>
+                            </li>
+
+                            <li class="categories">
+                                <a href="artworks.php" class="nav-link nav-hover">
+                                    Decorative Pieces
+                                    <i class="fas fa-angle-down down-arrow"></i>
+                                </a>
+                            </li>
+                            <li><a href="workshops.php" class="nav-link nav-hover"> Workshops </a></li>
+                            <li><a href="about.php" class="nav-link nav-hover"> About Us </a></li>
+
+                        </ul>
+                    </div>
+
+                    <div class="toggler">
+                        <img src="img/menu.webp">
+                    </div>
+                </div>
+            </nav>
+        </section>
+        <section class="cover-page">
+            <div class="cover">
+                <div class="cover-layer"></div>
+                <div class="cover-text">
+                    <h1 class="slogan">Art for your class</h1>
+                    <a href="#2" class="button-link" role="button"><span>Dicover</span></a>
+                </div>
+            </div>
+        </section>
+
+        <section class="latest" id="2">
+            <h2 class="section-title"> Our art sections</h2>
+            <div class="latest-content">
+            <div class="service wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                    <img src="img/s12.webp" alt="Art peices" class="service-img onn">
+                    <h3 class="service-title">Sketches</h3>
+                    <p class="service-text">Discover our Sketches section that includes various artworks of multiple topics and materials. Our Sketches are drawn using materials that are not capable to be used as decorations so they are not for sale.<br></p>
+                    <a href="gallery.php" class="service-link">Know more <span> ➝</span></a>
+                </div>
+
+                <div class="service wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                    <img src="img/s32.webp" alt="Art peices" class="service-img onnn">
+                    <h3 class="service-title">Decorative Pieces</h3>
+                    <p class="service-text">Get Your house walls ready before discovering this section as we will Fill Your walls and Life with art and colors with our Decorative Pieces that are designed to decorate your home. if you are interested to buy contact us.</p>
+                    <a href="artworks.php" class="service-link">Know more <span> ➝</span></a>
+                </div>
+
+                <div class="service wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                    <img src="img/s22.webp" alt="Art peices" class="service-img onnnn">
+                    <h3 class="service-title">Art Workshops</h3>
+                    <p class="service-text">Interested in our art ? why don't you be an artist yourself ? Join our Workshops now and make you own art and let the artists increase. If you are interested to join our workshops or for any inquiries contact us.<br> </p>
+                    <a href="workshops.php" class="service-link">Know more <span> ➝</span></a>
+                </div>
+            </div>
+        </section>
+
+
+        <section class="gallery">
+            <div class="col-1">
+                <div class="gal-text">
+                    <h2 class="section-title"> Sketches</h2>
+                    <p>“It took me four years to paint like Raphael, but a lifetime to paint like a child.” – Pablo Picasso</p>
+                </div>
+                <img src="https://iili.io/66030u.jpg" alt="" class="wow slideInLeft" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/66cLyQ.jpg" alt="" class="wow slideInLeft" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/660u0g.jpg" alt="" class="wow slideInLeft" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/660CbV.jpg" alt="" class="wow slideInLeft" style="visibility: hidden; animation-name: none;">
+            </div>
+            <div class="col-2">
+                <img src="https://iili.io/66lLfn.jpg" alt="" class="wow slideInRight" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/66lZUG.jpg" alt="" class="wow slideInRight" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/66cNaf.jpg" alt="" class="wow slideInRight" style="visibility: hidden; animation-name: none;">
+                <img src="https://iili.io/66lURR.jpg" alt="" class="wow slideInRight" style="visibility: hidden; animation-name: none;">                    
+                <a href="gallery.php" class="button-link" role="button"><span>More Sketches</span></a>
+            </div>
+        </section>
+
+        <section class="articles-section">
+            <h2 class="section-title">Art Articles</h2>
+            <div class="articles-content">
+                <div class="article wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <img src="https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="">
+                    <div class="article-text">
+                        <h3>Color Theory</h3>
+                        <a href="https://xd.adobe.com/ideas/process/ui-design/what-is-color-theory/" target="_blank" class="button-link" role="button"><span>Read Article</span></a>
+                    </div>
+                </div>
+                <div class="article wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <img src="https://images.pexels.com/photos/820673/pexels-photo-820673.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="">
+                    <div class="article-text">
+                        <h3>History of Art</h3>
+                        <a href="https://www.iskn.co/discover/2cf7df75/history-of-drawing" target="_blank" class="button-link" role="button"><span>Read Article</span></a>
+                    </div>
+                </div>
+                <div class="article wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <img src="https://images.pexels.com/photos/5641889/pexels-photo-5641889.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="">
+                    <div class="article-text">
+                        <h3>Color Types</h3>
+                        <a href="https://www.meghnaunni.com/2020/04/different-types-of-drawing-painting-mediums/" class="button-link" target="_blank" role="button"><span>Read Article</span></a>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <section class="testmonials">
+            <h2 class="section-title">Testmonials</h2>
+            <div class="test-content">
+                <div class="test wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <span class="ap">,,</span>
+                    <p><i> I wasn't interested in art that much, but after seeing these works i had the eager to discover more of this art.</i></p>
+                    <p class="test-name"><i>`Elaria Youssif`</i></p>
+                </div>
+                <div class="test wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <span class="ap">,,</span>
+                    <p><i> Their materials and colors quality are awesomne, i also like their details, they take care of their work details so much.</i></p>
+                    <p class="test-name"><i>`Shrook Ehab`</i></p>
+                </div>
+                <div class="test wow fadeInRight" style="visibility: hidden; animation-name: none;">
+                    <span class="ap">,,</span>
+                    <p><i> i Love their interest in art, they nearly know something in every kind of art whatever it is, and they didn't stop at this point either, they still want to know more. WOW!</i></p>
+                    <p class="test-name"><i>`Omar Tamer`</i></p>
+                </div>
+            </div>
+        </section>
+
+
+
+        <section class="footer">
+            <footer class="footer-main footer-light">
+                <div class="footer-content">
+                    <div class="footer-about">
+                        <img class="about-logo" src="img/logo.jpg">
+                        <p class="about-p">
+                        Family is like branches on a tree, we grow in different directions yet our roots remain as one..
+                        From this point, our artistic family decided to Publish our art, fill your walls with art , color your life and spread happiness.
+                        </p>
+                    </div>
+                    <div class="footer-contact">
+                        <h3>Contact Info</h3>
+                        <div class="social">
+                            <a href="https://www.facebook.com/Treeartvision" target="_blank">
+                                <div class="social-circle">
+                                    <div class="clip-circle facebook"></div>
+                                    <img src="img/facebook.webp" class="facebook-logo">
+                                </div>
+                            </a>
+                            <a href="https://www.instagram.com/tree_artvision" target="_blank">
+                                <div class="social-circle">
+                                    <div class="clip-circle instagram"></div>
+                                    <img src="img/instagram.webp" class="instagram-logo">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="footer-working">
+                        <h3>Main Links</h3>
+                        <ul>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="gallery.php">Sketches</a></li>
+                            <li><a href="artworks.php">Decorative Pieces</a></li>
+                            <li><a href="workshops.php">Workshops</a></li>
+                            <li><a href="about.php">About</a></li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="hr"></div>
+                <div class="copyrights">
+                    <p>
+                        Copyright ©2022 All rights reserved to Tree Art Vision.
+                    </p>
+                </div>
+            </footer>
+        </section>    </section>
+
+    <script src="js/nav.js"></script>
+        <script src="js/wow.min.js"></script>
+    <script>
+        new WOW().init();
+    </script>
+    <script src="js/slide.js"></script>
+
+
+
+
+</body>
